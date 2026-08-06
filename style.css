@@ -70,8 +70,8 @@ h1 {
 
 /* ---- headshot ---- */
 .headshot {
-  width: 132px;
-  height: 165px;
+  width: 162px;
+  height: 185px;
   object-fit: cover;
   filter: grayscale(100%);
   float: right;

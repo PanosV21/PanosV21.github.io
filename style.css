@@ -73,7 +73,7 @@ h1 {
   width: 162px;
   height: 185px;
   object-fit: cover;
-  filter: grayscale(100%);
+  filter: grayscale(0%);
   float: right;
   margin: 0.5rem 0 1.1rem 1.9rem;
 }

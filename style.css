@@ -273,3 +273,6 @@ p { margin: 0 0 1.35rem; }
   .portrait { width: 120px; }
   a { color: inherit; }
 }
+
+/* Make every job market paper link prominent on both pages. */
+a.jmp-link { font-weight: 700; }
